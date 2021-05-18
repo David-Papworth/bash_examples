@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo "Enter 3 names separated with spaces"
 read inputnames
 personnumber=1

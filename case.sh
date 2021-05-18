@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo "Enter your grade (A-F):"
 read grade
 

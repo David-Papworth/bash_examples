@@ -1,3 +1,5 @@
+#! /bin/bash
+
 echo "Enter a number"
 read inputnumber
 looper=1
